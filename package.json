@@ -1,7 +1,7 @@
 {
     "name": "laravel-docs",
     "main": "./lib/laravel-docs",
-    "version": "1.0.0",
+    "version": "0.0.0",
     "description": "Easily access the Laravel docs from within Atom",
     "keywords": ["laravel", "documentation"],
     "activationCommands": {
@@ -77,7 +77,7 @@
             "laravel-docs:views"
         ]
     },
-    "repository": "https://github.com/atom/laravel-docs",
+    "repository": "https://github.com/austenc/laravel-docs",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
