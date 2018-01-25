@@ -4,6 +4,7 @@
   "version": "1.0.1",
   "description": "Easily access the Laravel docs from within Atom",
   "keywords": [
+    "laravel docs",
     "laravel",
     "documentation"
   ],
