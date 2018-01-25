@@ -77,7 +77,7 @@
             "laravel-docs:views"
         ]
     },
-    "repository": "https://github.com/austenc/laravel-docs",
+    "repository": "https://github.com/austenc/atom-laravel-docs",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
