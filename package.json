@@ -1,7 +1,7 @@
 {
   "name": "laravel-docs",
   "main": "./lib/laravel-docs",
-  "version": "1.1.0",
+  "version": "1.0.1",
   "description": "Easily access the Laravel docs from within Atom",
   "keywords": [
     "laravel",
